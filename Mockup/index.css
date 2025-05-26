@@ -1,0 +1,115 @@
+/*
+
+******************************************
+
+    1. General Style
+    2. Header Style
+    3. Main Style
+    4. Footer Style
+
+
+******************************************
+
+
+*/
+
+/* 1. General Style */
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+/* 2. Header Style */
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1.5em;
+  border-bottom: 4px solid black;
+}
+
+.logo {
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+
+nav ul {
+  list-style: none;
+  display: flex;
+  gap: 30px;
+  margin: 0;
+  padding: 0;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+/* 3. Main Style */
+
+.base-tile{
+    display: flex;
+    justify-content: space-between;
+    gap: 1em;
+    margin-top: 2em;
+    padding: 1em;
+}
+
+.text-content-1{
+    background-color: #00bcd4;
+    padding: 2em;
+}
+
+.text-content-2{
+    background-color: green;
+    height: 7.75em;
+    margin-top: 2em;
+}
+
+.image-card{
+    position: relative;
+}
+
+.image-text-1{
+    position: absolute;
+    top: 5%;
+    left: 9%;
+    color: white;
+}
+
+.image-text-2{
+    position: absolute;
+    top: 74%;
+    left: 70%;
+    color: white;
+}
+
+/* 4. Footer Style */
+
+footer{
+    background-color: black;
+    height: 5em;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
+.logo-footer{
+    color: white;
+    text-align: right;
+    padding: 1em 5em;
+    font-size: 1.5em;
+}
+
+.green{
+    color: green;
+}
+
