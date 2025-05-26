@@ -3,22 +3,20 @@
 A webpage called **Flywheel**, showcasing a basic layout with header, main content including images and text blocks, and a footer. This project demonstrates HTML and CSS structuring for a modern landing-style page.
 
 ## Project Structure
+
 mockup/
 ├── index.html # Main HTML file
 ├── index.css # CSS styling file
 ├── img/
 │ └── gear-image.jpg # Image used in the main content section
 
-
 ## Image
 
-![Flywheel Sample](./img/gear-image.jpg)
-
-*(Image Citation: [Adobe Stock](https://stock.adobe.com/search?k=gears&asset_id=145406035))*
+Image Citation: [Adobe Stock](https://stock.adobe.com/search?k=gears&asset_id=145406035)
 
 ## Live Preview
 
-
+Deployment URL: [Flywheel Page](https://mohithjegan.github.io/mockup/Mockup/)
 
 ## Technologies Used
 
