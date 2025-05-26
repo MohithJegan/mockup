@@ -4,15 +4,7 @@ A webpage called **Flywheel**, showcasing a basic layout with header, main conte
 
 ## Project Structure
 
-mockup/
-├── index.html # Main HTML file
-├── index.css # CSS styling file
-├── img/
-│ └── gear-image.jpg # Image used in the main content section
-
-## Image
-
-Image Citation: [Adobe Stock](https://stock.adobe.com/search?k=gears&asset_id=145406035)
+``` mockup/ ├── index.html # Main HTML file ├── index.css # CSS styling file └── img/ └── gear-image.jpg # Image used in the main content section ```
 
 ## Live Preview
 
@@ -23,11 +15,9 @@ Deployment URL: [Flywheel Page](https://mohithjegan.github.io/mockup/Mockup/)
 - **HTML5** — Semantic markup
 - **CSS3** — Styling and layout
 - **Flexbox** — For layout structure
-- **Responsive Design Principles**
 
 ## Features
 
-- Responsive header with navigation
 - Image card with overlay text
 - Colored content blocks for emphasis
 - Fixed footer with branding
