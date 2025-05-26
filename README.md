@@ -8,7 +8,8 @@ A webpage called **Flywheel**, showcasing a basic layout with header, main conte
  ├── index.html # Main HTML file
  ├── index.css # CSS styling file
  └── img/
-     └── gear-image.jpg # Image used in the main content section ```
+     └── gear-image.jpg # Image used in the main content section 
+```
 
 ## Live Preview
 
